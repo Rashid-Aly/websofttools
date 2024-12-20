@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "result": {
+    "type": "videos",
+    "id": "7280456147608407302",
+    "region": "MY",
+    "description": "Sharmati raho bss 😂  #zulqarnainsikandar ",
+    "uploaded_at": 1695113296,
+    "author": {
+      "uid": "246426656142209024",
+      "unique_id": "ch.zulqarnain25",
+      "nickname": "Zulqarnain Sikandar",
+      "gender": 0,
+      "birthday": "1900-01-01",
+      "avatar_thumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/fc3e3a17211f50359a2cdb837e1a3b3a~c5_100x100.webp?x-expires=1695301200&x-signature=SvjFfCV%2Fl6H5PotIo6S1pzTxqnA%3D"
+    },
+    "statistics": {
+      "aweme_id": "7280456147608407302",
+      "comment_count": 462,
+      "digg_count": 39404,
+      "download_count": 558,
+      "play_count": 277066,
+      "share_count": 244,
+      "forward_count": 0,
+      "lose_count": 0,
+      "lose_comment_count": 0,
+      "whatsapp_share_count": 46,
+      "collect_count": 918
+    },
+    "music": {
+      "id": 7251965819952008000,
+      "id_str": "7251965819952007938",
+      "title": "original sound - mohsinfunn",
+      "author": "mohsin funny 512🔥",
+      "album": "",
+      "cover_hd": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47c7fae0bdc15ae79c36677b8c127139~c5_1080x1080.webp?x-expires=1695301200&x-signature=a6UyQjBfmJVoPOr%2BEX1zBM5ptOc%3D",
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47c7fae0bdc15ae79c36677b8c127139~c5_1080x1080.webp?x-expires=1695301200&x-signature=a6UyQjBfmJVoPOr%2BEX1zBM5ptOc%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47c7fae0bdc15ae79c36677b8c127139~c5_720x720.webp?x-expires=1695301200&x-signature=Dlkiu2UAQW8jQ6WnWcL2myh%2FcV0%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/47c7fae0bdc15ae79c36677b8c127139~c5_100x100.webp?x-expires=1695301200&x-signature=fAd3WqTdLz4V24OdvfWch714NEI%3D",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7251965801480112898.mp3"
+    },
+    "duration": 11284,
+    "video_nowatermark": "https://v16m-default.akamaized.net/e2d6f6a12620d10e3706630e35926192/650b41f2/video/tos/useast2a/tos-useast2a-pve-0068/okhAMAhLFLzBI7onAbEHfaJgtNkQ4yECYWIUPr/?a=0&ch=0&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=1562&bt=781&bti=OHYpOTY0Zik7OzlmOm01MzE6ZC4xMDo%3D&cs=0&ds=6&ft=iJOG.yFUZkr0PD1EhPvxg9wOJjSavEeC~&mime_type=video_mp4&qs=4&rc=NzlkZDNoOWQ2NDVoPDc3NEBpMzpybWc6ZmRwbjMzNzczM0A1Mi0xYmAuNl4xNmBiXjIxYSMzY25hcjRfLTFgLS1kMTZzcw%3D%3D&l=202309201303006C74734874455A19B765&btag=e00088000",
+    "video_watermark": "https://v16m-default.akamaized.net/7a5b5647fa0902194387c80c6bce5c95/650b41f2/video/tos/useast2a/tos-useast2a-ve-0068c003/oQIJMWoEhUzAhklfLGAPUyYANCbgICQOICFntH/?a=0&ch=0&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=3228&bt=1614&bti=OHYpOTY0Zik7OzlmOm01MzE6ZC4xMDo%3D&cs=0&ds=3&ft=iJOG.yFUZkr0PD1EhPvxg9wOJjSavEeC~&mime_type=video_mp4&qs=0&rc=ZmYzOjo7NjRpNDtmNDtoaUBpMzpybWc6ZmRwbjMzNzczM0AtYy4vMWEtNjAxLWBjLzJhYSMzY25hcjRfLTFgLS1kMTZzcw%3D%3D&l=202309201303006C74734874455A19B765&btag=e00088000",
+    "data_size": 1128644,
+    "width": 720,
+    "height": 1280,
+    "thumbnail": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/fc3e3a17211f50359a2cdb837e1a3b3a~c5_100x100.webp?x-expires=1695301200&x-signature=SvjFfCV%2Fl6H5PotIo6S1pzTxqnA%3D"
+  }
+}

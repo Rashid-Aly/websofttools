@@ -1,0 +1,16 @@
+{
+  "videoPage": [
+    {
+      "name": "TikTok Video Downloader",
+      "description": "Use this extension to download videos from TIKTOK.",
+      "href": "/video/tiktok-downloader",
+      "icon": "BsTiktok"
+    },
+    {
+      "name": "Youtube Video Downloader",
+      "description": "Use this extension to download videos from YOUTUBE.",
+      "href": "/video/youtube-downloader",
+      "icon": "BsYoutube"
+    }
+  ]
+}

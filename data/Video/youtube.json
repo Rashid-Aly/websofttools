@@ -1,0 +1,48 @@
+{
+  "title": "Youtube Video Downloader",
+  "description": "The Youtube video downloader stands as a cost-free online tool designed to assist you in downloading Youtube videos, completely devoid of any   watermarks. Whether you're on a desktop PC, a smartphone (be it Android or iPhone), an iPad, or tablets, this service caters to your needs. It allows you to save videos in high-definition MP4 or MP3 formats, ensuring the utmost quality. With just a few clicks, you'll be able to download watermark-free videos hassle-free. The best part? It's entirely free of charge and imposes no limits on the number of downloads. Plus, it's incredibly user-friendly and secure, requiring neither software installation nor registration.",
+  "YoutubeGuides": [
+    {
+      "name": "Find a Youtube video link",
+      "description": "Start by launching Youtube, finding a video you wish to download, and copying its URL.",
+      "imageUrl": "/icons/Search.png"
+    },
+    {
+      "name": "Paste the video URL",
+      "description": "Simply paste the copied video URL into the provided input box and give the 'Search' button a click.",
+      "imageUrl": "/icons/Link.png"
+    },
+    {
+      "name": "Download the Video or Audio",
+      "description": "Finally, hit the 'Download' buttons to effortlessly save either the video or audio content to your device.",
+      "imageUrl": "/icons/Cloud.png"
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "Is Youtube Video Downloader free to use?",
+      "answer": "Yes, our Youtube Video Downloader is completely free to use. You can download Youtube videos without any cost or limitations."
+    },
+    {
+      "question": "How do I use Youtube Video Downloader?",
+      "answer": "It's easy! Simply find a Youtube video you want to download, copy its URL, paste the URL into our input box, and click the 'Download' button."
+    },
+    {
+      "question": "Can I download both video and audio with Youtube Video Downloader?",
+      "answer": "Yes, you can choose to download either the video or the audio from Youtube videos, depending on your preference."
+    },
+    {
+      "question": "Do I need to register or install any software to use Youtube Video Downloader?",
+      "answer": "No, there's no need to register or install any software. Our downloader is entirely web-based for your convenience."
+    },
+    {
+      "question": "Are there any restrictions on the number of downloads I can make?",
+      "answer": "No, there are no limitations on the number of downloads. You can use our Youtube Video Downloader as often as you like."
+    },
+    {
+      "question": "Is it legal to download Youtube videos with this tool?",
+      "answer": "Yes, it is legal to download Youtube videos for personal use. However, please respect copyright and privacy laws when using downloaded content."
+    }
+  ]
+}

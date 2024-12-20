@@ -1,0 +1,53 @@
+{
+  "video": [
+    {
+      "name": "TikTok Video Downloader",
+      "href": "/video/tiktok-downloader"
+    },
+    {
+      "name": "Youtube Video Downloader",
+      "href": "/video/youtube-downloader"
+    },
+    {
+      "name": "Instagram Video Downloader",
+      "href": "/video/instagram-downloader"
+    }
+  ],
+  "Calculators": [
+    {
+      "name": "Age Calculator",
+      "href": "/calculator/age-calculator"
+    },
+    {
+      "name": "Loan Calculator",
+      "href": "/calculator/loan-calculator"
+    }
+  ],
+  "Converters": [
+    {
+      "name": "Json To Xml",
+      "href": "/converters/json-to-xml"
+    },
+    {
+      "name": "Jpeg To Jpg",
+      "href": "/converters/jpeg-to-jpg"
+    }
+  ],
+  "Language": [
+    {
+      "name": "Eng"
+    },
+    {
+      "name": "Urdu"
+    },
+    {
+      "name": "Hindi"
+    },
+    {
+      "name": "Spanish"
+    },
+    {
+      "name": "Chinese"
+    }
+  ]
+}

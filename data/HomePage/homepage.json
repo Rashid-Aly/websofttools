@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "name": "Effortless Media Downloads",
+      "description": "Download your favorite videos and audio from TikTok, YouTube, Face-book, Instagram reels, Vimeo, and more with just one click",
+      "href": "/video",
+      "imageUrl": "/images/imageicons/CloudArrowDownIcon.png"
+    },
+    {
+      "name": "File Conversion Made Easy",
+      "description": "Download your favorite videos and audio from TikTok, YouTube, Face-book, Instagram reels, Vimeo, and more with just one click",
+      "href": "/converters",
+      "imageUrl": "/images/imageicons/LockClosedIcon.png"
+    },
+    {
+      "name": "Handy Micro Tools",
+      "description": "Download your favorite videos and audio from TikTok, YouTube, Face-book, Instagram reels, Vimeo, and more with just one click",
+      "href": "/calculator",
+      "imageUrl": "/images/imageicons/ArrowPathIcon.png"
+    },
+    {
+      "name": "Professional Support",
+      "description": "Download your favorite videos and audio from TikTok, YouTube, Face-book, Instagram reels, Vimeo, and more with just one click",
+      "href": "/contact-us",
+      "imageUrl": "/images/imageicons/user.png"
+    }
+  ],
+  "stats": [
+    { "id": 1, "name": "Downloads and counting", "value": "5,000+" },
+    { "id": 2, "name": "Flat platform fee", "value": "0%" },
+    { "id": 3, "name": "Uptime guarantee", "value": "99.9%" },
+    { "id": 4, "name": "Micro Tools for various tasks", "value": "5" }
+  ],
+  "homeFaqs": [
+    {
+      "question": "What is WebSoftTools?",
+      "answer": "WebSoftTools is a versatile online platform offering a range of free tools to simplify various digital tasks. From downloading media to file conversions and quick online utilities, we provide a one-stop solution for your digital needs."
+    },
+    {
+      "question": "Is WebSoftTools free to use?",
+      "answer": "Yes, WebSoftTools is completely free. You can access all our tools without any cost or limitations."
+    },
+    {
+      "question": "Are my downloads and conversions secure?",
+      "answer": "Absolutely! We prioritize your privacy and security. We don't store any data from your downloads or conversions, ensuring your information remains confidential."
+    },
+    {
+      "question": "What types of files can I convert using WebSoftTools?",
+      "answer": "We support a wide range of file conversions, including documents (PDF to Word, Word to Excel), multimedia (MP4 to MP3), and more. Explore our conversion tools for the full list."
+    },
+    {
+      "question": "How do I download videos and audio with WebSoftTools?",
+      "answer": "Simply copy the URL of the media you want to download and paste it into our designated tool. Click 'Download,' and your media will be saved to your device."
+    },
+    {
+      "question": "Can I access WebSoftTools on mobile devices?",
+      "answer": "Yes, WebSoftTools is mobile-friendly and can be used on smartphones, tablets, and desktops, giving you flexibility and convenience."
+    },
+    {
+      "question": "Do I need to register or install software to use WebSoftTools?",
+      "answer": "No, there's no need for registration or software installation. Our tools are entirely web-based for ease of use."
+    },
+    {
+      "question": "How can I get in touch with WebSoftTools support?",
+      "answer": "You can reach our support team by sending an email to support@websofttools.com. We're here to assist you with any questions or issues you may have."
+    },
+    {
+      "question": "Is there a download or conversion limit?",
+      "answer": "There are no limits on the number of downloads or conversions you can perform. Feel free to use our tools as often as you need."
+    },
+    {
+      "question": "Can I use WebSoftTools for commercial purposes?",
+      "answer": "Yes, WebSoftTools is suitable for both personal and commercial use. It's a versatile platform designed to meet various digital needs."
+    }
+  ],
+  "footer": {
+    "downloaders": [
+      { "name": "Download Videos", "href": "/video" },
+      { "name": "Converters", "href": "/converters/jpeg-to-jpg" },
+      { "name": "Blogs", "href": "/blog" },
+      { "name": "About", "href": "/about" },
+      { "name": "Contact us", "href": "/contact-us" }
+    ],
+    "quickLinks": [
+      { "name": "Age Calculator", "href": "/calculator/age-calculator" },
+      { "name": "JSON to XML", "href": "/converters/json-to-xml" },
+      { "name": "Jpeg to Jpg", "href": "/converters/jpeg-to-jpg" },
+      { "name": "JSON to Excel", "href": "/converters/jpeg-to-jpg" },
+      { "name": "CSV to JSON", "href": "/converters/jpeg-to-jpg" }
+    ],
+    "company": [
+      { "name": "Tiktok video download", "href": "/video/tiktok-downloader" },
+      { "name": "Youtube video download", "href": "/video/youtube-downloader" },
+      {
+        "name": "Facebook video download",
+        "href": "/video/facebook-downloader"
+      },
+      { "name": "Convert  json to xml", "href": "/converters/json-to-xml" },
+      { "name": "Image converter", "href": "/converters/jpeg-to-jpg" },
+      { "name": "Age calculator", "href": "/calculator/age-calculator" }
+    ],
+    "sociallinks": [
+      {
+        "name": "Facebook",
+        "href": "#",
+        "imageUrl": "/socialicon/facebook.png"
+      },
+      {
+        "name": "Instagram",
+        "href": "#",
+        "imageUrl": "/sociaicon/instagram.png"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "#",
+        "imageUrl": "/socialicon/linkedin.png"
+      },
+      {
+        "name": "Twitter",
+        "href": "#",
+        "imageUrl": "/socialicon/twitter.png"
+      }
+    ]
+  }
+}
