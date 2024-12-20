@@ -24,10 +24,10 @@ const Button = ({
   const roundedClasses = rounded
     ? "rounded"
     : roundedmd
-      ? "rounded-md"
-      : roundedfull
-        ? "rounded-full"
-        : "";
+    ? "rounded-md"
+    : roundedfull
+    ? "rounded-full"
+    : "";
   return (
     <button
       className={`${baseClasses} ${sizeClasses} ${widthClasses} ${

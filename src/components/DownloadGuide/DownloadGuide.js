@@ -21,8 +21,8 @@ export default function DownloadGuide({ Guides }) {
                       index === 1
                         ? "bg-[#E3FFFF]"
                         : index === 2
-                          ? "bg-[#E8DCFE]"
-                          : ""
+                        ? "bg-[#E8DCFE]"
+                        : ""
                     }`}
                     alt={`${feature.name} icon`}
                   />

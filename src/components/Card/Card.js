@@ -24,10 +24,10 @@ const Card = ({ data }) => {
                   index === 1
                     ? "w-16"
                     : index === 4
-                      ? "w-28"
-                      : index === 5
-                        ? "w-16"
-                        : ""
+                    ? "w-28"
+                    : index === 5
+                    ? "w-16"
+                    : ""
                 }`}
                 alt={`${item.name} Icon`}
               />

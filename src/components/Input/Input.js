@@ -18,10 +18,10 @@ const Input = ({
   const roundedClasses = rounded
     ? "rounded"
     : roundedmd
-      ? "rounded-md"
-      : roundedfull
-        ? "rounded-full"
-        : "";
+    ? "rounded-md"
+    : roundedfull
+    ? "rounded-full"
+    : "";
   const baseClasses =
     "border-[2px] border-opacity-10 font-roboto text-[#000000] shadow outline-none placeholder:font-roboto placeholder:text-[#828181] hover:border-Secondary";
   const widthClasses = full ? "w-full" : "";
